@@ -3,7 +3,7 @@
 ## Launching a Jupyter Notebook on the Greene Cluster compute nodes
 
 ### Preliminaries
-Be sure to have a conda environment (<EnvironmentID>) with Jupyter Notebook installed.
+Be sure to have a conda environment (`<EnvironmentID>`) with Jupyter Notebook installed.
 
 ### 1. Create a Shell Script
 First, create a shell script (`sh` file) to launch the Jupyter Notebook on the control node. Use the following template, replacing `<NetID>` and `<EnvironmentID>` (conda environment) with your specific details:
